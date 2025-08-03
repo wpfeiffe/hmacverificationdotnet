@@ -36,3 +36,4 @@ HmacVerificationApi/obj/Debug/net8.0/refint/HmacVerificationApi.dll
 HmacVerificationApi/obj/Debug/net8.0/staticwebassets/msbuild.build.HmacVerificationApi.props
 HmacVerificationApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HmacVerificationApi.props
 HmacVerificationApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HmacVerificationApi.props
+curltest.sh
