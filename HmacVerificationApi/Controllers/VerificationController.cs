@@ -62,7 +62,7 @@ namespace HmacVerificationApi.Controllers
                 // Process the payload
                 // You can deserialize it here if needed
                 // var payload = JsonSerializer.Deserialize<PayloadModel>(rawBody);
-                
+                _logger.LogInformation("HMAC signature verified successfully");
                 return Ok(new { 
                     Success = true, 
                     Message = "Signature verified successfully" 
